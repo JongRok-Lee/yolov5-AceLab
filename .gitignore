@@ -44,6 +44,7 @@ VOC/
 dataset/testing/
 dataset/training/
 dataset/train.cache
+dataset/val.cache
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
 *.mat
