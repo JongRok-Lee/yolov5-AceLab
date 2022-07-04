@@ -41,7 +41,9 @@ results*.csv
 coco/
 coco128/
 VOC/
-
+dataset/testing/
+dataset/training/
+dataset/train.cache
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
 *.mat

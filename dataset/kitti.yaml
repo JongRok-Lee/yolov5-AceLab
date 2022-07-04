@@ -1,0 +1,6 @@
+train: /home/jr/Desktop/yolov5-AceLab/dataset/train.txt
+val: /home/jr/Desktop/yolov5-AceLab/dataset/val.txt
+
+# Classes
+nc: 8  # number of classes
+names: ['Car', 'Van', 'Truck', 'Pedestrian', 'Person_sitting', 'Cyclist', 'Tram', 'DontCare']  # class names
