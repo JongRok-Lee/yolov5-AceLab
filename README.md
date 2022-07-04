@@ -1,3 +1,8 @@
+I used the Yolov5s model to train KITTI dataset.
+More detailed discription is uploaded on my Korean blog
+url: https://velog.io/@openjr/YOLO-v5-KITTI-%ED%95%99%EC%8A%B5-%EC%8B%9C%ED%82%A4%EA%B8%B0
+
+---
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
